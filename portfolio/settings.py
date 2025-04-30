@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-^@u0jsa_maaikue*x&-lill--zsp^u6+g92$3+1o%5iq$7b2-u
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'portfolio-bp2d.onrender.com'
+    'https://portfolio-xwyf.onrender.com'
 ]
 
 
